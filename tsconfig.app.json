@@ -19,6 +19,7 @@
     "src/**/*.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
-    "shims-css.d.ts"
+    "shims-css.d.ts",
+    "shims-vue.d.ts"
   ]
 }
